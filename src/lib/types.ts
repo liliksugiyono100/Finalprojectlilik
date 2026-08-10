@@ -1,5 +1,7 @@
 export type Status = "Open" | "Close";
 
+export const STATUS_UPDATE_MAX_LENGTH = 100;
+
 export interface DefectItem {
   no: number;
   area: string;

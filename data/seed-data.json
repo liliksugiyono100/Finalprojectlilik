@@ -55,7 +55,7 @@
     "feedback_hk": "Material sudah siap",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -70,7 +70,7 @@
     "feedback_hk": "Sudah dilakukan pemindahan fan ke platform elevasi +39, namun vibrasi yang terjadi masih sama. Fan akan dilakukan re-balancing dan alignment impeller.",
     "target_penyelesaian": "DNP",
     "d_o": "D",
-    "status_update": "TDK DIKERJAKAN , Cek ulang 14 Juli: Vibrasi Mtr NDE A: 9.2, H: 9.8, V: 13.6, DE A: 10, H: 4.3 , V: 2.8",
+    "status_update": "TDK DIKERJAKAN, cek ulang 14 Juli: Vibrasi Mtr NDE A:9.2 H:9.8 V:13.6, DE A:10 H:4.3 V:2.8",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -85,7 +85,7 @@
     "feedback_hk": "Actuator 411-PG12 sudah dilakukan perbaikan seal dan telah ditest tidak bocor.\n(Pengajuan HK status closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -100,7 +100,7 @@
     "feedback_hk": "Kabel power sudah dipasang flexible conduit. \n(Pengajuan HK status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -145,7 +145,7 @@
     "feedback_hk": "HK akan melakukan penggantian pressure gauge yang rusak selama masa DNP",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -160,7 +160,7 @@
     "feedback_hk": "HK sudah melakukan pemasangan Rubber seal dan sudah tidak bocor.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -190,7 +190,7 @@
     "feedback_hk": "HK sudah melakukan penggantian lampu yang padam tanggal 2 April 2026.\n(HK mengajukan status closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -205,7 +205,7 @@
     "feedback_hk": "Lokal isolator yang rusak akan diganti dengan VCS milik HK",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -220,7 +220,7 @@
     "feedback_hk": "HK sudah melakukan penyambungan kembali tanggal 2 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -250,7 +250,7 @@
     "feedback_hk": "Extension duct untuk pengukuran dust emission dipasang ketika dilakukan pengukuran (tidak permanen) dan extension duct sudah ada di lokasi.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Anto",
     "last_updated_at": null
   },
@@ -295,7 +295,7 @@
     "feedback_hk": "HK sudah menerima penawaran vendor dan akan segera dikerjakan.",
     "target_penyelesaian": "2026-04-30",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-04-30",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -310,7 +310,7 @@
     "feedback_hk": "Abnormal noise sudah hilang dan akan dimonitoring selama DNP. \n(HK mengajukan status Closed)",
     "target_penyelesaian": "Selama DNP",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: Selama DNP",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -325,7 +325,7 @@
     "feedback_hk": "HK sudah menerima penawaran vendor untuk perbaikan dengan menambahkan wear plate pada chute tersebut.",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -340,7 +340,7 @@
     "feedback_hk": "HK akan melakukan pembersihan sensor dan melakukan rekonfigurasi.",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -355,7 +355,7 @@
     "feedback_hk": "HK telah melakukan modifikasi wiring sesuai dengan rekomendasi PT Buana pada 9 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -370,7 +370,7 @@
     "feedback_hk": "HK telah melakukan modifikasi wiring sesuai dengan rekomendasi PT Buana pada 9 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -385,7 +385,7 @@
     "feedback_hk": "HK sudah menerima penawaran vendor untuk perbaikan dengan mengganti wear plate yang bocor tersebut.",
     "target_penyelesaian": "JI 10 JUNI 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "JI 10 JUNI 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -400,7 +400,7 @@
     "feedback_hk": "HK sudah melakukan penggantian HMI modul tanggal 4 April 2026.\n(HK mengajukan status Closed).",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -415,7 +415,7 @@
     "feedback_hk": "HK sudah melakukan penggantian HMI modul tanggal 4 April 2026.\n(HK mengajukan status Closed).",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Ratna",
     "last_updated_at": null
   },
@@ -430,7 +430,7 @@
     "feedback_hk": "HK akan memasang toeboard di area yang memerlukan",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -445,7 +445,7 @@
     "feedback_hk": "HK sudah melakukan penggantian HMI modul tanggal 4 April 2026.\n(HK mengajukan status Closed).",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -460,7 +460,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar material yang sudah terpasang (aluminium) dapat diterima.",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -475,7 +475,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar material yang sudah terpasang (aluminium) dapat diterima.",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -490,7 +490,7 @@
     "feedback_hk": "Sesuai dengan ISO 14694, vibrasi ≤ 6,3mm/s kategori Good.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -505,7 +505,7 @@
     "feedback_hk": "Limit switch tidak perlu di adjust (sesuai saran TA CP). HK akan melakukan marking ulang skala bukaan GT di lokasi.",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -520,7 +520,7 @@
     "feedback_hk": "HK akan melakukan penggantian Pressure Gauge yang rusak.",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -535,7 +535,7 @@
     "feedback_hk": "HK akan melakukan penggantian Pressure Gauge yang rusak.",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -550,7 +550,7 @@
     "feedback_hk": "HK akan memasang kembali kabel grounding",
     "target_penyelesaian": "Sudah dilakukan JI 8 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -565,7 +565,7 @@
     "feedback_hk": "HK sudah melakukan perbaikan seal water trap yang bocor tanggal 25 Maret 2026\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 8 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -580,7 +580,7 @@
     "feedback_hk": "Sesuai ISO 14694 vibrasi ≤ 6,3mm/s kategori Good, HK akan melakukan pembersihan impeller dan dimonitor selama DNP.",
     "target_penyelesaian": "Sudah dilakukan JI 8 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -595,7 +595,7 @@
     "feedback_hk": "Addressing sudah diperbaiki, tagging akan dicetak dan dipasang ulang.",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -610,7 +610,7 @@
     "feedback_hk": "HK sudah melakukan penggantian PSU yang rusak tanggal \n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -625,7 +625,7 @@
     "feedback_hk": "HK sudah melakukan penggantian PSU yang rusak \n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -655,7 +655,7 @@
     "feedback_hk": "HK sudah melakukan pengujian kembali tanggal 31 Maret 2026. Kapsul No. 1 berat sample 477,6gram dan No. 2 berat sample 375,1gram berhasil terkirim / terhisap POLAB. Modifikasi program dengan menambahkan running 591-GT04.",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "D",
-    "status_update": "W4 , Tgl 29Juli sudah dites secara auto, sistem bekerja dg baik, selanjutnya akan  dilakukan setting timmer running screw",
+    "status_update": "W4, 29 Juli sudah dites auto, sistem bekerja baik, lanjut setting timer running screw",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -670,7 +670,7 @@
     "feedback_hk": "Sinyal sudah sampai CCR (dari FM200), HK akan berkirim surat ke Enjinir tanggal 13 April 2026 terkait integrasi yang akan dilakukan oleh tim CCR karena HK tidak ada akses ke TIS SBI Plant.",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "D",
-    "status_update": "W4 , HK akan berkirim setelah dapat info address remote DI . Tgl  29 Juli sudah dilakukan pengecekan address remote DI oleh HK + SBI",
+    "status_update": "W4, HK kirim setelah dapat address remote DI. 29 Juli sudah dicek address remote DI oleh HK+SBI",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -685,7 +685,7 @@
     "feedback_hk": "HK akan melakukan penggantian material converter yang rusak. Estimasi MOS 7 Mei 2026.",
     "target_penyelesaian": "AGUSTUS 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: AGUSTUS 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -700,7 +700,7 @@
     "feedback_hk": "Sesuai hasil rapat-rapat Hi-Level, PGT 2 dilakukan dengan kondisi apa adanya (as is condition) dengan beberaapa improvement di 641-VS01 dan 641-BC01 (increase belt speed). (HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -715,7 +715,7 @@
     "feedback_hk": "Item ini akan dibahas dalam forum pembahasan Klaim.",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -745,7 +745,7 @@
     "feedback_hk": "HK akan mengirimkan justifikasi teknis terkait dengan kondisi kompresor yang 1 running dan 1 backup",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -760,7 +760,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar material yang sudah terpasang (aluminium) dapat diterima.",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -775,7 +775,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar material yang sudah terpasang (aluminium) dapat diterima.",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -790,7 +790,7 @@
     "feedback_hk": "HK sudah melakukan penutupan lubang dengan seal foam tanggal 8 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -805,7 +805,7 @@
     "feedback_hk": "HK akan melakukan servis berkala pada AC yang terindikasi bocor.",
     "target_penyelesaian": "Sudah dilakukan JI 8 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Mei 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -835,7 +835,7 @@
     "feedback_hk": "HK akan melakukan penggantian PSU 5A yang rusak",
     "target_penyelesaian": "Sudah dilakukan JI 8 Meil 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Meil 2026",
     "pic": "Bilal",
     "last_updated_at": null
   },
@@ -850,7 +850,7 @@
     "feedback_hk": "Opening Flap untuk pengecekan roller di tube conveyor tidak dikerjakan.",
     "target_penyelesaian": "2026-07-31",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-07-31",
     "pic": "Kamily",
     "last_updated_at": null
   },
@@ -880,7 +880,7 @@
     "feedback_hk": "HK telah mengirimkan sertifikasi lightning protection tube conveyor tanggal 2 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 24 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 24 April 2026",
     "pic": "Kamily",
     "last_updated_at": null
   },
@@ -940,7 +940,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar material yang sudah terpasang (aluminium) dapat diterima.",
     "target_penyelesaian": "AGUSTUS 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: AGUSTUS 2026",
     "pic": "Kamily",
     "last_updated_at": null
   },
@@ -955,7 +955,7 @@
     "feedback_hk": "HK akan mengganti pull cord switch",
     "target_penyelesaian": "Sudah JI  22 Jui 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Jui 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -970,7 +970,7 @@
     "feedback_hk": "HK menyatakan akan melakukan pemrograman ulang setelah dilakukan perbaikan address sensor temperatur.",
     "target_penyelesaian": "Sudah dilakukan JI 21 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 21 Mei 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -985,7 +985,7 @@
     "feedback_hk": "HK sudah melakukan penutupan lubang dengan seal foam tanggal 8 April 2026.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah dilakukan JI 27 April 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 27 April 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1000,7 +1000,7 @@
     "feedback_hk": "HK akan melakukan pengecekan sensor bersama Adiwarna (vendor HK) yang dijadwalkan tanggal 30 April 2026",
     "target_penyelesaian": "Sudah JI  22 Juli 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Juli 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1015,7 +1015,7 @@
     "feedback_hk": "Nipple pada 641-RF07 adalah asesori umum, untuk industri semen tidak diperlukan pemanfaatan sealing air kecuali untuk bag filter food procesing.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: W4 JULI 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1030,7 +1030,7 @@
     "feedback_hk": "Material sudah on site, HK akan mengganti kabel grounding dan grounding rod sesaat setelah TOC keluar.",
     "target_penyelesaian": "JI 10 JUNI 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "JI 10 JUNI 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1045,7 +1045,7 @@
     "feedback_hk": "HK sudah melakukan injection crack baik di Trestle maupun di Jetty dan akan dimonitoring selama DNP",
     "target_penyelesaian": "DNP",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: DNP",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1075,7 +1075,7 @@
     "feedback_hk": "Pemindahan Guardrail tidak dikerjakan Kontraktor",
     "target_penyelesaian": "2026-05-31",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-05-31",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1090,7 +1090,7 @@
     "feedback_hk": "Unit Hoist sudah on site, instalasi dispute item sehingga tidak dilakukan HK karena menurut Siwertell tidak diperlukan.",
     "target_penyelesaian": "2026-07-31",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-07-31",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1105,7 +1105,7 @@
     "feedback_hk": "Sesuai info Siwertell, pengiriman  akan dilakukan pada akhir April 2026. Instalasi membutuhkan waktu 14 hari kalender.",
     "target_penyelesaian": "2026-05-15",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-05-15",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1120,7 +1120,7 @@
     "feedback_hk": "HK menyampaikan hardware sudah terpasang dan perlu pemrograman.",
     "target_penyelesaian": "AGUSTUS 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: AGUSTUS 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1135,7 +1135,7 @@
     "feedback_hk": "Sinyal sudah sampai CCR (dari FM200), HK akan berkirim surat ke Enjinir tanggal 13 April 2026 terkait integrasi yang akan dilakukan oleh tim CCR karena HK tidak ada akses ke TIS SBI Plant.",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: W4 JULI 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1180,7 +1180,7 @@
     "feedback_hk": "HK menyampaikan 641-BC01 tidak bisa mencapai 1000tph continuous kecuali kecepatan belt ditingkatkan dan di setting 2,6 - 2,8 m/s sesuai kajian LAPI ITB (Prof. Yazid).\n(HK mengajukan status Closed)",
     "target_penyelesaian": "Sudah diklaim Employer",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah diklaim Employer",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1210,7 +1210,7 @@
     "feedback_hk": "Kerusakan dan deformasi pada Bellows Loading Spout karena hisapan dari airslide / bag filter kapal yang bukan peruntukan dari desain Bellows tersebut. Penggantian bukan lingkup HK.",
     "target_penyelesaian": "JI  10 JUNI2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "JI  10 JUNI2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1240,7 +1240,7 @@
     "feedback_hk": "HK menyampaikan akses emergency tidak diperlukan.",
     "target_penyelesaian": "2026-06-30",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-06-30",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1255,7 +1255,7 @@
     "feedback_hk": "HK sudah mengganti lampu suar Buoy yang mati 2 buah (DSI 1772 dan DSI 1773), sedang lainnya HK hanya melakukan relokasi saja tidak termasuk peningkatan fasilitas penambahan lampu suar.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "2026-05-20",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-05-20",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1270,7 +1270,7 @@
     "feedback_hk": "VSD berfungsi untuk starting equipment untuk mendapatkan setting kecepatan yang tepat. Ketika sudah mendapatkan setting kecepatan yang optimal, maka 641-BC01 dijalankan dengan kecepatan yang konstan.\n(HK mengajukan status Closed)",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Target: W4 JULI 2026",
     "pic": "Fajar",
     "last_updated_at": null
   },
@@ -1285,7 +1285,7 @@
     "feedback_hk": "HK menyampaikan teknisi KAESER sudah melakukan pemeriksaan dan troublke shooting di lokasi, perlu penggantian V-Belt dan sensor dewpoint temperature, juga menyarankan agar dipasang exhaust dan intake fan pada ruang kompresor.",
     "target_penyelesaian": "V-Belt diganti 13 April 2026 - JI  10 JUNI 2026\nSensor temperatur dan exhaust 31 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "V-Belt diganti 13 April 2026 - JI  10 JUNI 2026\nSensor temperatur dan exhaust 31 Mei 2026",
     "pic": "Cindy",
     "last_updated_at": null
   },
@@ -1300,7 +1300,7 @@
     "feedback_hk": "HK sudah melakukan pemeriksaan dan pembersihan dan akan dimonitoring saat running kembali.",
     "target_penyelesaian": "Sudah JI  22 Juli 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Juli 2026",
     "pic": "Cindy",
     "last_updated_at": null
   },
@@ -1315,7 +1315,7 @@
     "feedback_hk": "HK akan menambahkan segmen pipa pada extension chute yang sudah difabrikasi.",
     "target_penyelesaian": "Sudah dilakukan JI 8 Mei 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah dilakukan JI 8 Mei 2026",
     "pic": "Cindy",
     "last_updated_at": null
   },
@@ -1330,7 +1330,7 @@
     "feedback_hk": "Sesuai e-mail Siwertell, unit brake akan dikirimkan ke Siwertell 7 April 2026 dari vendor mereka. Pengiriman akan dilakukan di W-4 atau W-5 April 2026. On site diperkirakan pada W-1 Mei 2026.",
     "target_penyelesaian": "Sudah JI  22 Juli 2026",
     "d_o": "D",
-    "status_update": "",
+    "status_update": "Sudah JI  22 Juli 2026",
     "pic": "Cindy",
     "last_updated_at": null
   },
@@ -1345,7 +1345,7 @@
     "feedback_hk": "HK akan mengerjakan pada DNP",
     "target_penyelesaian": "2026-05-30",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: 2026-05-30",
     "pic": "Cindy",
     "last_updated_at": null
   },
@@ -1360,7 +1360,7 @@
     "feedback_hk": "HK akan mengajukan TQ agar dapat menggunakan kunci yang ada saat ini (tanpa Master Key)",
     "target_penyelesaian": "W4 JULI 2026",
     "d_o": "O",
-    "status_update": "",
+    "status_update": "Target: W4 JULI 2026",
     "pic": "Cindy",
     "last_updated_at": null
   }
