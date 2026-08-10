@@ -80,6 +80,7 @@ export default function Home() {
                   Defect / Outstanding Works
                 </th>
                 <th className="px-3 py-2 font-semibold">Status</th>
+                <th className="px-3 py-2 font-semibold">Status Update</th>
                 <th className="px-3 py-2 font-semibold">PIC</th>
                 <th className="px-3 py-2 font-semibold">Terakhir Update</th>
               </tr>
@@ -127,6 +128,15 @@ export default function Home() {
                       >
                         {item.status}
                       </span>
+                    </Link>
+                  </td>
+                  <td className="p-0 align-top max-w-xs">
+                    <Link
+                      href={`/item/${item.no}`}
+                      className="block px-3 py-2 truncate"
+                      title={item.status_update}
+                    >
+                      {item.status_update || "-"}
                     </Link>
                   </td>
                   <td className="p-0 align-top">

@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 import { readItems, writeItems } from "@/lib/store";
-import type { DefectItem } from "@/lib/types";
+import { STATUS_UPDATE_MAX_LENGTH, type DefectItem, type Status } from "@/lib/types";
 
 type RouteParams = { params: Promise<{ no: string }> };
 
@@ -39,10 +39,33 @@ export async function PUT(req: Request, { params }: RouteParams) {
     return NextResponse.json({ error: "Item not found" }, { status: 404 });
   }
 
+  if ("status" in body && !["Open", "Close"].includes(body.status)) {
+    return NextResponse.json(
+      { error: "Status harus 'Open' atau 'Close'" },
+      { status: 400 }
+    );
+  }
+  if (
+    "status_update" in body &&
+    typeof body.status_update === "string" &&
+    body.status_update.length > STATUS_UPDATE_MAX_LENGTH
+  ) {
+    return NextResponse.json(
+      {
+        error: `Status update maksimal ${STATUS_UPDATE_MAX_LENGTH} karakter`,
+      },
+      { status: 400 }
+    );
+  }
+
   const updated: DefectItem = { ...items[index] };
   for (const field of EDITABLE_FIELDS) {
     if (field in body) {
-      (updated[field] as string) = body[field];
+      if (field === "status") {
+        updated.status = body.status as Status;
+      } else {
+        (updated[field] as string) = body[field];
+      }
     }
   }
   updated.last_updated_at = new Date().toISOString();

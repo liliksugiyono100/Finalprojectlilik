@@ -17,28 +17,39 @@ function TextField({
   value,
   onChange,
   textarea,
+  maxLength,
 }: {
   label: string;
   value: string;
   onChange: (v: string) => void;
   textarea?: boolean;
+  maxLength?: number;
 }) {
   const inputClass =
     "w-full border border-black/15 dark:border-white/20 rounded-md px-3 py-2 bg-transparent text-sm";
   return (
     <label className="block">
-      <span className="block text-sm font-medium mb-1">{label}</span>
+      <span className="flex items-center justify-between text-sm font-medium mb-1">
+        <span>{label}</span>
+        {maxLength && (
+          <span className="text-xs font-normal text-black/50 dark:text-white/50">
+            {value.length}/{maxLength}
+          </span>
+        )}
+      </span>
       {textarea ? (
         <textarea
           className={`${inputClass} min-h-24`}
           value={value}
-          onChange={(e) => onChange(e.target.value)}
+          maxLength={maxLength}
+          onChange={(e) => onChange(e.target.value.slice(0, maxLength))}
         />
       ) : (
         <input
           className={inputClass}
           value={value}
-          onChange={(e) => onChange(e.target.value)}
+          maxLength={maxLength}
+          onChange={(e) => onChange(e.target.value.slice(0, maxLength))}
         />
       )}
     </label>
@@ -200,6 +211,7 @@ export default function ItemPage({
               value={item.status_update}
               onChange={(v) => update("status_update", v)}
               textarea
+              maxLength={100}
             />
           </div>
 
